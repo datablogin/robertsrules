@@ -1,0 +1,12 @@
+
+---
+
+# requirements.txt
+
+```txt
+pymc>=5.10
+arviz>=0.17
+numpy
+pandas
+matplotlib
+scipy
